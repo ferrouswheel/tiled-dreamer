@@ -31,6 +31,5 @@ To deepdream at any size:
 
 ## License
 
-MIT/BSD or just do whatever you like with it. No warranties, blah blah, etc.
-
-Code adapted from the original deep dream ipython notebook.
+Fucking Apache because code adapted from the
+[original deep dream ipython notebook](https://github.com/google/deepdream)
